@@ -1,3 +1,5 @@
+//Jeffeson Mwangi Ngugi
+//DCS-03-0097/2025
 #include<iostream>
 using namespace  std;
 float sim_interest(float p,float r,float t){
